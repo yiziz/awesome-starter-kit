@@ -1,4 +1,9 @@
 
+# Awesome Starter Kit
+
+A collection of awesome Boilerplates and Starter Kits across the web.
+
+
  | Tags                                             | URL                                                                         |
  | ------------------------------------------------ | --------------------------------------------------------------------------- |
  | Android                                          | https://github.com/hitherejoe/Android-Boilerplate                           |
@@ -105,3 +110,13 @@
  | Webpack, React, Redux                            | https://github.com/jpsierens/webpack-react-redux                            |
  | WordPress                                        | https://github.com/DevinVinson/WordPress-Plugin-Boilerplate                 |
  | Yii, Yii2, PHP                                   | https://github.com/trntv/yii2-starter-kit                                   |
+
+
+# Contribution
+
+Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
