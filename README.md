@@ -106,6 +106,7 @@ A collection of awesome Boilerplates and Starter Kits across the web.
  | Threejs, WebVR, VR                               | https://github.com/borismus/webvr-boilerplate                               |
  | Typeplate, Typography                            | https://github.com/typeplate/starter-kit                                    |
  | VIM                                              | https://github.com/cookiengineer/.vim                                       |
+ | VueJS, Express, MongoDB, Node.js                 | https://github.com/icebob/vue-express-mongo-boilerplate                     |
  | Webdriver, Cucumber                              | https://github.com/webdriverio/cucumber-boilerplate                         |
  | Webpack, React, Redux                            | https://github.com/jpsierens/webpack-react-redux                            |
  | WordPress                                        | https://github.com/DevinVinson/WordPress-Plugin-Boilerplate                 |
